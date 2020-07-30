@@ -1,4 +1,3 @@
 # Write your solution here
-if true 
-  puts "This code runs!"
-end
+current_time = Time.authenticate_or_request_with_http_digest
+current_time.to_i 
